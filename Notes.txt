@@ -7,9 +7,33 @@ yarn create react-app fbaselogi
 yarn add @material-ui/core @material-ui/icons
 
 // add Roboto font to index.html
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+
+<style type="text/css">
+  body {
+   margin: 0;
+  }
+</style>
 
 yarn add firebase
 firebase login
 firebase init - questions??
 
 firebase deploy
+
+phoqe@phoqe.dev  // domain parked courtesy of godaddy.
+
+https://demo.rmuif.com/
+
+const theme = {
+  global: {
+    font: {
+      family: 'Roboto',
+      size: '18px',
+      height: '20px',
+    },
+  },
+};
+
+
+npx create-react-app my-app --template rmuif
