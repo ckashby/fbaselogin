@@ -1,0 +1,15 @@
+Katie Moore (Enlitic)
+
+yarn create react-app fbaselogi
+
+// yarn add husky lint-staged prettier
+
+yarn add @material-ui/core @material-ui/icons
+
+// add Roboto font to index.html
+
+yarn add firebase
+firebase login
+firebase init - questions??
+
+firebase deploy
